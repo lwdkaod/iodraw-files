@@ -8,7 +8,7 @@
           <mxGeometry x="360" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcyF3ItkMjQzQbKFsQSl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="353" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcyF3ItkMjQzQbKFsQSl-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="600" width="120" height="60" as="geometry" />
@@ -16,8 +16,11 @@
         <mxCell id="mcyF3ItkMjQzQbKFsQSl-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mcyF3ItkMjQzQbKFsQSl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mcyF3ItkMjQzQbKFsQSl-6" target="mcyF3ItkMjQzQbKFsQSl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mcyF3ItkMjQzQbKFsQSl-6" value="无人机进入预定场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcyF3ItkMjQzQbKFsQSl-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="400" width="120" height="60" as="geometry" />
