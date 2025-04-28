@@ -19,6 +19,11 @@
         <mxCell id="mcyF3ItkMjQzQbKFsQSl-6" value="无人机进入预定场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mcyF3ItkMjQzQbKFsQSl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mcyF3ItkMjQzQbKFsQSl-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mcyF3ItkMjQzQbKFsQSl-7" value="自主寻找二维码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="385" width="120" height="60" as="geometry" />
         </mxCell>
